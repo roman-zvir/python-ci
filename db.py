@@ -69,6 +69,7 @@ def _add_default_data():
     create_product("Bread", 20)
     create_product("Butter", 62)
     create_product("Milk", 32)
+    create_product("Apple", 80)
 
 
 def _print_all_data():
